@@ -9,41 +9,7 @@ categories:
 
 targetNodes:
   nodeType:
-    - tomcat6
-    - tomcat7
-    - tomcat8
-    - tomcat85
-    - tomcat9
-    - tomcat
-    - tomee
-    - tomee-dockerized
-    - glassfish3
-    - glassfish4
-    - glassfish
-    - jetty
-    - jetty6
-    - apache
-    - apache2
-    - nginxphp
-    - apache2-ruby
-    - nginx-ruby
-    - nginx
-    - nginx-dockerized
-    - nginxphp-dockerized
-    - haproxy
-    - apache-lb
-    - varnish
-    - varnish-dockerized
-    - payara
-    - wildfly
-    - nodejs
-    - apache-ruby
-    - apache-python
-    - nginxruby
-    - litespeedphp
-    - litespeedadc
-    - lemp
-    - llsmp
+    - centos-vps
 
 requiredFeatures: extip
 
